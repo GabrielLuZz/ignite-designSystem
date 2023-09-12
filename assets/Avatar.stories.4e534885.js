@@ -1,0 +1,2 @@
+import{A as t}from"./index.7e5a2f76.js";import"./index.f679bd28.js";import"./iframe.41c9d591.js";import"./index.78c1462f.js";import"./jsx-runtime.c9adf818.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/GabrielLuZz.png",alt:"Gabriel Luz"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","withFallback"];export{c as Primary,l as __namedExportsOrder,p as default,e as withFallback};
+//# sourceMappingURL=Avatar.stories.4e534885.js.map
